@@ -1,1 +1,1 @@
-This is the main folder where I willl practice ML tutorials.
+This is the main folder where I will practice ML tutorials.
